@@ -50,7 +50,11 @@ class ResultPage extends StatelessWidget {
                   Text(
                     bmi_interpritaion,
                     style: kLableTextStyle.copyWith(color: Colors.white),
-                    textAlign: TextAlign.center,
+                    textAlign: Tgit remote add origin https://github.com/CatherineAmir/flutter_bmi.git
+                  git branch -M main
+                  git push -u origin maingit remote add origin https://github.com/CatherineAmir/flutter_bmi.git
+                  git branch -M main
+                  git push -u origin mainextAlign.center,
                   )
                 ],
               ),
