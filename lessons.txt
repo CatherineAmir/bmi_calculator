@@ -1,0 +1,45 @@
+Themes
+ExtaractWidget
+keyclass:
+Keyclass is sth used to keep the state of the widget
+specially when changing the position of widget in the widget tree
+like animation and scrolling
+
+immutable=unchangeable   means can't be changed after  creation
+
+instancefiled =field = property
+
+stateless widgets are immutable : can't be changed
+
+final vs constant
+
+notes apps are compiled , then built then run
+final varaiable: can be set only once
+
+constant:is complie time constant , so it can't hold a vaule after compile time(run or build)
+can't be assigned to a sth is created while app is running but final can
+
+
+enums:
+Enmerations:
+the action for esatblish number for sth
+enum GenderEnum { male, female }
+which like selection menu
+
+on function as variable use void call back instead of void
+
+
+for constants designs
+we  make file for constants
+to share a style between files
+
+FontWeight.w100 less bold
+FontWeight.w900 most bold
+
+
+Slider
+theme
+0x29for slider
+
+
+routes -- pages and screen
